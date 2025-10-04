@@ -1,0 +1,26 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Are Nacho Fries Back?</title>
+  <style>
+    body {
+      background: #ffcc00;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 20%;
+    }
+    h1 {
+      font-size: 4em;
+      margin: 0;
+    }
+    .yes { color: green; }
+    .no { color: red; }
+  </style>
+</head>
+<body>
+  <!-- Change class and text manually when fries return -->
+  <h1 class="no">NO 🌮🥲</h1>
+  <p>Nacho Fries are not on the Taco Bell menu right now.</p>
+</body>
+</html>
